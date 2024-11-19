@@ -5,17 +5,19 @@ The Tech Academy Special C-Sharp Projects
 
 
 ## **Introduction**
-This repository contains the The Tech Academy Special C-Sharp Project that I completed as part of my course. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
+This repository contains the The Tech Academy Special C-Sharp Project and ASP.NET MVC Entity Framework that I completed as part of my course. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
 
 ## **Technologies**
 The project primarily makes use of the following technologies:
 
 - C-Sharp
+- ASP.NET MVC Entity Framework
 
 ## **Launch**
 To ensure reproducibility, the project was developed using the following versions of the technologies:
 
 - C-Sharp
+- ASP.NET MVC Entity Framework
 
 ## **Table of Contents**
 - [Introduction](#introduction)
@@ -31,9 +33,10 @@ To ensure reproducibility, the project was developed using the following version
 ## **Scope of Functionalities**
 The project serves as a basic example of a C-Sharp. It includes the following functionalities:
 - C-Sharp
+- ASP.NET MVC Entity Framework
 
 ## **Examples of Use**
-It demonstrates how to create a simple C-Sharp project.
+It demonstrates how to create a simple C-Sharp project and ASP.NET MVC Entity Framework.
 
 ## **Project Status**
 The project is complete and serves as a demonstration of skills acquired during the course. No further development is planned at this time.
