@@ -1,8 +1,8 @@
 # Car_Insurance
-The Tech Academy Special C-Sharp Projects
+The Tech Academy Special C-Sharp Projects and ASP.NET MVC Entity Framework
 
 ![Static Badge](https://img.shields.io/badge/C_Sharp-8A2BE2)
-
+![Static Badge](https://img.shields.io/badge/ASP.NET_MVC-Entity_Framework-blue)
 
 ## **Introduction**
 This repository contains the The Tech Academy Special C-Sharp Project and ASP.NET MVC Entity Framework that I completed as part of my course. In this README, you will find information about the project's purpose, the technologies used, the launch version, and other essential details to help you understand and potentially reproduce the project.
